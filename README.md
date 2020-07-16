@@ -15,4 +15,7 @@ https://pjreddie.com/darknet/yolo/
 
 As per the data set,it is not provided for privacy reasons and it can be downloaded from other public sources and in the program change the dataset folder to the folder address in your local machine. 
 
-A snap for Tiger Detection are as follows
+A snap for Tiger Detection are as follows:
+
+![Original_Image](https://github.com/AthulSrinivas/Tiger/blob/master/Images/Tiger.png?raw=true)
+![Detected_Image](https://github.com/AthulSrinivas/Tiger/blob/master/Images/TigerDet.png?raw=true)
