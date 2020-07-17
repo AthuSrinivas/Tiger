@@ -19,3 +19,7 @@ A snap for Tiger Detection are as follows:
 
 ![Original_Image](https://github.com/AthulSrinivas/Tiger/blob/master/Images/Tiger.png?raw=true)
 ![Detected_Image](https://github.com/AthulSrinivas/Tiger/blob/master/Images/TigerDet.png?raw=true)
+
+A after detecting the Tiger Identifying it Uniquely is as follows:
+
+![Original_Image](https://github.com/AthulSrinivas/Tiger/blob/master/Images/TigerPatDet.png?raw=true)
